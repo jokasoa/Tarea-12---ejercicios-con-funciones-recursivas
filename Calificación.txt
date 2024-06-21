@@ -1,0 +1,5 @@
+Calificación: 1.2/2
+
+Faltan datos informativos
+Desde el main hay que llamar al menos 2 veces a cada función
+Sigue subiendo archivos vacíos.
